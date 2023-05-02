@@ -9,7 +9,7 @@ module.exports = {
       'very-dark-blue': 'hsl(212, 21%, 14%)',
       'dark-grayish-blue': 'hsl(228, 12%, 48%)',
       'white': 'hsl(0, 0%, 100%)',
-      'cream': '#F2EAE2'
+      'deep-aquamarine': '#1A4032'
     },
     fontFamily: {
       Fraunces: ['Fraunces', 'cursive'],
